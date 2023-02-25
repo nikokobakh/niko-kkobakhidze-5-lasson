@@ -39,3 +39,9 @@ section{
 	color: #171717;
 	size: 16px;
 }
+.image-taxt{
+	max-width: 219px;
+	width: 90%;
+
+	margin: auto;
+}
