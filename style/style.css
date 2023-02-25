@@ -14,6 +14,13 @@ header{
 	height: 388px;
 	padding-top: 40px;
 }
+.image-taxt{
+	display: inline-block;
+	max-width: 219px;
+	width: 90%;
+
+	margin: auto;
+}
 nav a{
 	color: #FFFFFF;
 	size: 16px;
@@ -38,11 +45,4 @@ section{
 .black-taxt{
 	color: #171717;
 	size: 16px;
-}
-.image-taxt{
-	display: inline-block;
-	max-width: 219px;
-	width: 90%;
-
-	margin: auto;
 }
