@@ -18,10 +18,8 @@ nav a{
 	color: #FFFFFF;
 	size: 16px;
 }
-nav ul li{
+nav ul{
 	display: inline-block;
-	
-	margin: auto;
 }
 section{
 	max-width: 1195px;
@@ -40,4 +38,13 @@ section{
 .black-taxt{
 	color: #171717;
 	size: 16px;
+}
+.block-taxt{
+	display: inline-block;
+
+	max-width: 1195px;
+	width: 90%;
+
+	margin: auto;
+
 }
