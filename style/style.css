@@ -19,11 +19,9 @@ nav a{
 	size: 16px;
 }
 section{
-	max-width: 1195px;
 	margin-top: -100px;
-	margin: auto;
 }
 .article-image{
 	max-width: 1195px;
-	width: 80%;
+	width: 90%;
 	margin: auto;
