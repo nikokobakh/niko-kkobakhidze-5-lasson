@@ -3,23 +3,10 @@
 	padding: 0;
 	box-sizing: border-box;
 }*/
-a{
-	text-decoration: none;
-}
-ul{
-	list-style-type: none;
-}
 header{
 	background-color: #0020F4;
 	height: 388px;
 	padding-top: 40px;
-}
-.image-taxt{
-	display: inline-block;
-	max-width: 219px;
-	width: 90%;
-
-	margin: auto;
 }
 nav a{
 	color: #FFFFFF;
@@ -45,4 +32,17 @@ section{
 .black-taxt{
 	color: #171717;
 	size: 16px;
+}
+.image-taxt{
+	max-width: 219px;
+	width: 90%;
+
+    display: inline-block;
+	margin: auto;
+}
+.taxt{
+	color: #FFFFFF;
+	size: 16px;
+
+	display: inline-block;
 }
