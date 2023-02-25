@@ -20,7 +20,6 @@ nav a{
 }
 nav ul{
 	display: inline-block;
-	margin: auto;
 }
 section{
 	max-width: 1195px;
@@ -31,3 +30,12 @@ section{
 }
 .article-image{
 	width: 100%;
+}
+.important-taxt{
+	color: #171717;
+	size: 16px;
+}
+.black-taxt{
+	color: #171717;
+	size: 16px;
+}
