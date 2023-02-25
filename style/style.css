@@ -40,6 +40,7 @@ section{
 	size: 16px;
 }
 .image-taxt{
+	display: inline-block;
 	max-width: 219px;
 	width: 90%;
 
