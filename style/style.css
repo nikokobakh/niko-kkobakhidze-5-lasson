@@ -8,12 +8,9 @@ header{
 	height: 388px;
 	padding-top: 40px;
 }
-nav a{
-	color: #FFFFFF;
-	size: 16px;
-}
-ul{
+nav {
 	display: inline-block;
+	list-style-type: none;
 }
 section{
 	max-width: 1195px;
@@ -37,12 +34,9 @@ section{
 	max-width: 219px;
 	width: 90%;
 
-    display: inline-block;
 	margin: auto;
 }
 .taxt{
 	color: #FFFFFF;
 	size: 16px;
-
-	display: inline-block;
 }
