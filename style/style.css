@@ -18,9 +18,9 @@ nav a{
 	color: #FFFFFF;
 	size: 16px;
 }
-ul{
+/*ul{
 	display: inline-block;
-}
+}*/
 section{
 	max-width: 1195px;
 	width: 90%;
@@ -42,7 +42,7 @@ section{
 .image-taxt{
 	max-width: 219px;
 	width: 90%;
-	
+
     display: inline-block;
 	margin: auto;
 }
