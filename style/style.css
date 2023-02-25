@@ -20,6 +20,8 @@ nav a{
 }
 nav ul li{
 	display: inline-block;
+	
+	margin: auto;
 }
 section{
 	max-width: 1195px;
