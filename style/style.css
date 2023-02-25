@@ -17,6 +17,8 @@ header{
 nav a{
 	color: #FFFFFF;
 	size: 16px;
+}
+nav ul{
 	display: inline-block;
 }
 section{
